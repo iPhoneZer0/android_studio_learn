@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hello</string>
+    <string name="title">ちわ！あんどろいど</string>
+    <string name="tap">ここをタップ！</string>
 </resources>
